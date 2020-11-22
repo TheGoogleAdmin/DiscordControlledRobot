@@ -10,4 +10,6 @@ This is the list of equipment I used, however these parts are interchangeable
 5. Portable phone charger to power the Pi which also powers the monitor
 6. 4 x AA batteries to power the motor
 7. Portable speaker
+
+
 I then used a shoebox for the chasis.
