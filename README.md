@@ -12,4 +12,4 @@ This is the list of equipment I used, however these parts are interchangeable
 7. Portable speaker
 
 
-I then used a shoebox for the chasis.
+I then used a shoebox for the chassis.
